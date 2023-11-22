@@ -1,2 +1,2 @@
-# Iamwillingcoming.github.io
+# lmyfi.github.io
 Hexo Blog
