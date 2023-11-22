@@ -1,3 +1,7 @@
+---
+title: Hexo+Github Page搭建技术博客教程
+tags:
+---
 # Hexo+Github Page搭建技术博客教程
 
 [【精选】超详细Hexo+Github Page搭建技术博客教程-CSDN博客](https://blog.csdn.net/qq_36580022/article/details/127964463)
